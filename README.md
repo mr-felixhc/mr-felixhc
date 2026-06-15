@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=F%C3%A9lix%20Carabajal&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Staff%20Platform%20Engineer%20%C2%B7%20Cloud%20Infrastructure%20%26%20Reliability&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Félix Carabajal — Staff Platform Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=F%C3%A9lix%20Carabajal&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Staff%20Platform%20Engineer%20%C2%B7%20Cloud%20Infrastructure%20and%20Reliability&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Félix Carabajal — Staff Platform Engineer" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Cloud+Infrastructure+%26+Reliability;Platform+Engineering+%E2%80%94+paved+paths;SOC2+%E2%80%A2+IaC+%E2%80%A2+Observability+as+code;Currently+deepening+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Cloud+Infrastructure+and+Reliability;Platform+Engineering+%E2%80%94+paved+paths;SOC2+%E2%80%A2+IaC+%E2%80%A2+Observability+as+code;Currently+deepening+AWS" alt="Typing SVG" />
 </a>
 
 <p>
