@@ -34,9 +34,13 @@ fast-paced environments. Hands-on, ownership-driven, systems-thinking.
 - 🔐 Designed and shipped **SOC2-ready infrastructure** end-to-end (IAM, segmentation, DR, audit automation)
 
 ### Tech
-**Cloud:** `AWS` · `GCP` &nbsp;·&nbsp; **Orchestration:** `Kubernetes / GKE` · `Cloud Run`
-**IaC:** `Terraform` · `Terragrunt` · `Helm` · `OpenTofu` &nbsp;·&nbsp; **CD:** `ArgoCD` · `Cloud Build` · `GitHub Actions`
-**Languages:** `Python` · `Rust` · `Bash` &nbsp;·&nbsp; **Observability:** `Prometheus` · `Grafana`
+
+**Cloud:** `AWS` · `GCP`<br>
+**Orchestration:** `Kubernetes / GKE` · `Cloud Run`<br>
+**IaC:** `Terraform` · `Terragrunt` · `Helm` · `OpenTofu`<br>
+**CD:** `ArgoCD` · `Cloud Build` · `GitHub Actions`<br>
+**Languages:** `Python` · `Rust` · `Bash`<br>
+**Observability:** `Prometheus` · `Grafana`<br>
 **Other:** `Docker` · `FastAPI` · `Cloudflare` · `Linux`
 
 > Currently deepening my **AWS** practice alongside a strong GCP foundation.
